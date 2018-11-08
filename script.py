@@ -1,41 +1,47 @@
 
 # -*- coding: utf-8 -*-
 
-import codecs
-import sys
-streamWriter = codecs.lookup('utf-8')[-1]
-sys.stdout = streamWriter(sys.stdout)
-
 # import libraries
-import urllib2
-from bs4 import BeautifulSoup
+import sched, time
+s = sched.scheduler(time.time, time.sleep)
+def do_something(sc):
+    print "Doing stuff..."
+    # do your stuff
+    s.enter(2, 1, do_something, (sc,))
 
-import csv
-from datetime import datetime
+    import urllib2
+    from bs4 import BeautifulSoup
 
-# specify the url
-quote_page = 'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/'
+    import csv
+    from datetime import datetime
 
-# query the website and return the html to the variable page
-page = urllib2.urlopen(quote_page)
+    # specify the url
+    quote_page = 'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/'
 
-# parse the html using beautiful soup and store in variable soup
-soup = BeautifulSoup(page, 'html.parser')
+    # query the website and return the html to the variable page
+    page = urllib2.urlopen(quote_page)
 
-# Take out the <div> of name and get its value
-name_box = soup.find('span', attrs={'class': 'price'})
+    # parse the html using beautiful soup and store in variable soup
+    soup = BeautifulSoup(page, 'html.parser')
 
-#After we have the tag, we can get the data by getting its text.
-name = name_box.text.strip() # strip() is used to remove starting and trailing
-print name
+    # Take out the <div> of name and get its value
+    name_box = soup.find('span', attrs={'class': 'price'})
 
-# get the index price
-#price_box = soup.find('div', attrs={'class':'priceText__1853e8a5'})
-#price = price_box.text
-#print price
+    #After we have the tag, we can get the data by getting its text.
+    name = name_box.text.strip() # strip() is used to remove starting and trailing
+    print name
+
+    # get the index price
+    #price_box = soup.find('div', attrs={'class':'priceText__1853e8a5'})
+    #price = price_box.text
+    #print price
 
 
-# open a csv file with append, so old data will not be erased
-with open('index.csv', 'a') as csv_file:
- writer = csv.writer(csv_file)
- writer.writerow([name.encode("utf-8"), datetime.now()])
+    # open a csv file with append, so old data will not be erased
+    with open('index.csv', 'a') as csv_file:
+     writer = csv.writer(csv_file)
+     writer.writerow([name.encode("utf-8"), datetime.now()])
+
+
+s.enter(1, 1, do_something, (s,))
+s.run()
