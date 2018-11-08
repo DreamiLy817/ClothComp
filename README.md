@@ -1,2 +1,6 @@
 # ClothComp
-Comparateur de prix de vêtement
+Comparateur de prix
+
+## TODO
+
+- API pour récupérer les données 
