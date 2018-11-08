@@ -1,4 +1,11 @@
 
+# -*- coding: utf-8 -*-
+
+import codecs
+import sys
+streamWriter = codecs.lookup('utf-8')[-1]
+sys.stdout = streamWriter(sys.stdout)
+
 # import libraries
 import urllib2
 from bs4 import BeautifulSoup
@@ -16,7 +23,7 @@ page = urllib2.urlopen(quote_page)
 soup = BeautifulSoup(page, 'html.parser')
 
 # Take out the <div> of name and get its value
-name_box = soup.find('a', attrs={'class': 'user-login'})
+name_box = soup.find('span', attrs={'class': 'price'})
 
 #After we have the tag, we can get the data by getting its text.
 name = name_box.text.strip() # strip() is used to remove starting and trailing
@@ -31,4 +38,4 @@ print name
 # open a csv file with append, so old data will not be erased
 with open('index.csv', 'a') as csv_file:
  writer = csv.writer(csv_file)
- writer.writerow([name, datetime.now()])
+ writer.writerow([name.encode("utf-8"), datetime.now()])
