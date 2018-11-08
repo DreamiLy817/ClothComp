@@ -4,6 +4,8 @@ Comparateur de prix
 ### TODO
 
 - API pour récupérer les données 
+- Run le script après un lapse de temps ✔
+- Interface pour rentrer l'url, et la/les classe(s) du(des) produit(s)
 
 
 ### Idées 
