@@ -14,3 +14,6 @@ Comparateur de prix
 - pouvoir suivre un produit, ajouter un produit à la liste 
 - voir les images des produits avec le prix, le site proposé
 - voir le prix d'un article sur une semaine pour suivre l'évolution
+
+
+( tableau avec url, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
