@@ -3,7 +3,10 @@ Comparateur de prix
 
 ### TODO
 
-- API pour récupérer les données 
+- Récupérer les données ✔
+- Run le script après un lapse de temps ✔
+- Récuperer plusieurs éléments à partir d'une classe
+- Interface pour rentrer l'url, et la/les classe(s) du(des) produit(s)
 
 
 ### Idées 
@@ -11,3 +14,6 @@ Comparateur de prix
 - pouvoir suivre un produit, ajouter un produit à la liste 
 - voir les images des produits avec le prix, le site proposé
 - voir le prix d'un article sur une semaine pour suivre l'évolution
+
+
+( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
