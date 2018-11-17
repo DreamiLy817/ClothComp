@@ -27,6 +27,8 @@ def do_something(sc):
         # query the website and return html to the variable " page"
         page = urllib2.urlopen(pg)
 
+        print pg
+
         #parse the html using beautiful soap and store in variable "soup"
         soup = BeautifulSoup(page, 'html.parser')
 
