@@ -16,4 +16,4 @@ Comparateur de prix
 - voir le prix d'un article sur une semaine pour suivre l'évolution
 
 
-( tableau avec url, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
+( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
