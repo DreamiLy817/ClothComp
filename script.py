@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 
 # import libraries
@@ -7,7 +6,7 @@ s = sched.scheduler(time.time, time.sleep)
 def do_something(sc):
     print "Doing stuff..."
     # do your stuff
-    s.enter(2, 1, do_something, (sc,))
+    s.enter(60, 1, do_something, (sc,))
 
     import urllib2
     from bs4 import BeautifulSoup
@@ -16,31 +15,41 @@ def do_something(sc):
     from datetime import datetime
 
     # specify the url
-    quote_page = 'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/'
+    quote_page = [
+    'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-gris-chine-10020642067.html',
+    'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-camel-10020749039.html',
+    'https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-toucher-cachemire-ecru-10020137001.html']
 
-    # query the website and return the html to the variable page
-    page = urllib2.urlopen(quote_page)
+    # loop
+    data = []
 
-    # parse the html using beautiful soup and store in variable soup
-    soup = BeautifulSoup(page, 'html.parser')
+    for pg in quote_page:
+        # query the website and return html to the variable " page"
+        page = urllib2.urlopen(pg)
 
-    # Take out the <div> of name and get its value
-    name_box = soup.find('span', attrs={'class': 'price'})
+        #parse the html using beautiful soap and store in variable "soup"
+        soup = BeautifulSoup(page, 'html.parser')
 
-    #After we have the tag, we can get the data by getting its text.
-    name = name_box.text.strip() # strip() is used to remove starting and trailing
-    print name
+        #Take out the <div> of name and get its value
 
-    # get the index price
-    #price_box = soup.find('div', attrs={'class':'priceText__1853e8a5'})
-    #price = price_box.text
-    #print price
+        name_div =  soup.find('h1', attrs={'class': 'product-name'})
+        name = name_div.text.strip() # strip() is used to remove starting and trailing
+        print name
+        #get the index price
+        price_div =  soup.find('span', attrs={'itemprop': 'price'})
+        price = price_div.text
+        print price
 
+        #save the date in tuple
+        data.append((name,price))
 
-    # open a csv file with append, so old data will not be erased
-    with open('index.csv', 'a') as csv_file:
-     writer = csv.writer(csv_file)
-     writer.writerow([name.encode("utf-8"), datetime.now()])
+    #open a csv file with append, so old data will not be erased
+    with open('pull.csv', 'a') as csv_file:
+        writer = csv.writer(csv_file)
+        # loop for
+        for name, price in data:
+            writer.writerow([name.encode("utf-8"), price.encode("utf-8"), datetime.now()])
+
 
 
 s.enter(1, 1, do_something, (s,))
