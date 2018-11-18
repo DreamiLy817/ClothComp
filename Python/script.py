@@ -27,7 +27,7 @@ def do_something(sc):
         # query the website and return html to the variable " page"
         page = urllib2.urlopen(pg)
 
-        print pg
+        url = pg
 
         #parse the html using beautiful soap and store in variable "soup"
         soup = BeautifulSoup(page, 'html.parser')
@@ -42,15 +42,19 @@ def do_something(sc):
         price = price_div.text
         print price
 
+        image_div = soup.find('img', attrs={'class': "primary-image"})['src']
+        img = image_div
+        print img
+
         #save the date in tuple
-        data.append((name,price))
+        data.append((name,price, url, img))
 
     #open a csv file with append, so old data will not be erased
     with open('pull.csv', 'a') as csv_file:
         writer = csv.writer(csv_file)
         # loop for
-        for name, price in data:
-            writer.writerow([name.encode("utf-8"), price.encode("utf-8"), datetime.now()])
+        for name, price, url, img in data:
+            writer.writerow([url.encode("utf-8"), name.encode("utf-8"), price.encode("utf-8"),img.encode("utf-8"), datetime.now()])
 
 
 
