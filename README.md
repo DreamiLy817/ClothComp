@@ -17,3 +17,5 @@ Comparateur de prix
 
 
 ( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
+
+-- récupère le prix uniquement s'il a changé
