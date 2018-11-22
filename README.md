@@ -21,9 +21,7 @@ Comparateur de prix
 
 ( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
 
- vérifier l'id du produit
-si l'id correspond, vérifie si le prix a changé 
-  si le prix a changé, stocker le nouveau prix 
-si le prix n'a pas changer, on passe à l'article suivant 
-
-il faut récupérer la date à chaque fois qu'on récupère le nouveau prix d'un article 
+- vérifier l'id du produit
+- si l'id correspond, vérifie si le prix a changé 
+- si le prix a changé, stocker le nouveau prix et récupérer la date
+- si le prix n'a pas changer, on passe à l'article suivant 
