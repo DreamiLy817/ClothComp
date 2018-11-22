@@ -16,6 +16,12 @@ Comparateur de prix
 - voir le prix d'un article sur une semaine pour suivre l'évolution
 
 
+## Vrac
+
+
 ( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
 
--- récupère le prix uniquement s'il a changé
+- vérifier l'id du produit
+- si l'id correspond, vérifie si le prix a changé 
+- si le prix a changé, stocker le nouveau prix et récupérer la date
+- si le prix n'a pas changé, on passe à l'article suivant 
