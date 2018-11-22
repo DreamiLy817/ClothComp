@@ -24,4 +24,4 @@ Comparateur de prix
 - vérifier l'id du produit
 - si l'id correspond, vérifie si le prix a changé 
 - si le prix a changé, stocker le nouveau prix et récupérer la date
-- si le prix n'a pas changer, on passe à l'article suivant 
+- si le prix n'a pas changé, on passe à l'article suivant 
