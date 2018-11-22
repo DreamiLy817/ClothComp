@@ -10,6 +10,7 @@ axios.get('https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/')
             let devtoList = [];
             $('#search-result-items .list-tile').each(function(i, elem) {
                 devtoList[i] = {
+                  id: $(this).find('.product-wrapper').data('product-id'),
                     title: $(this).find('.product-name h3').text().trim(),
                     url: $(this).find('.img-link').attr('href'),
                     image : $(this).find('.img-link img').attr('src'),
