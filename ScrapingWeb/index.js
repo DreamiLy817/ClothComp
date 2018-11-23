@@ -1,15 +1,16 @@
 let axios = require('axios');
 let cheerio = require('cheerio');
 let fs = require('fs');
+let schedule = require('node-schedule');
 
 axios.get('https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/')
     .then((response) => {
         if(response.status === 200) {
             const html = response.data;
             const $ = cheerio.load(html);
-            let devtoList = [];
+            let listPull = [];
             $('#search-result-items .list-tile').each(function(i, elem) {
-                devtoList[i] = {
+                listPull[i] = {
                   id: $(this).find('.product-wrapper').data('product-id'),
                     title: $(this).find('.product-name h3').text().trim(),
                     url: $(this).find('.img-link').attr('href'),
@@ -17,10 +18,10 @@ axios.get('https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/')
                     prix : $(this).find('.price').text().trim()
                 }
             });
-            console.log(devtoList);
-            const devtoListTrimmed = devtoList.filter(n => n != undefined )
-            fs.writeFile('devtoList.json',
-                          JSON.stringify(devtoListTrimmed, null, 4),
+            console.log(listPull);
+            const listPullTrimmed = listPull.filter(n => n != undefined )
+            fs.writeFile('listPull.json',
+                          JSON.stringify(listPullTrimmed, null, 4),
                           (err)=> console.log('File successfully written!'))
     }
 }, (error) => console.log(err) );
