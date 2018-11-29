@@ -1,8 +1,11 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const {promisify} = require('util');
 const schedule = require('node-schedule');
 
+
+const readFileAsync = promisify(fs.readFile);
 
 function recuperationListeVetement() {
     axios.get('https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/')
@@ -56,20 +59,17 @@ function updateListeVetement() {
                     }
                 });
 
-                var ListPullMain = fs.readFileSync('listPull.json','utf8');
 
-               /* function getListPullMain() {
-                    return new Promise((resolve, reject) => {
+                async function getListPullMain() {
                         try {
-                            let ListPullMain = fs.readFile('listPull.json', 'utf8', function(err, contents) {
-                                console.log(contents);
-                            });
+                            let ListPullMain = JSON.parse(await fs.readFileAsync('listPull.json', {encoding: 'utf8'}));
+                            console.log('CONTENT:', text);
                         } catch (error) {
-                            return reject(error);
-                        }
-                    })
-                }*/
+                            console.log('ERROR:', error);
+                        } 
+                }
                 console.log(ListPullMain);
+
 
                 listPullUpdate.forEach(function(item) {
                    
