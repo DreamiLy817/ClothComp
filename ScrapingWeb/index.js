@@ -56,7 +56,9 @@ function updateListeVetement() {
                     }
                 });
 
-                function getListPullMain() {
+                var ListPullMain = fs.readFileSync('listPull.json','utf8');
+
+               /* function getListPullMain() {
                     return new Promise((resolve, reject) => {
                         try {
                             let ListPullMain = fs.readFile('listPull.json', 'utf8', function(err, contents) {
@@ -66,15 +68,13 @@ function updateListeVetement() {
                             return reject(error);
                         }
                     })
-                }
-                getListPullMain().then(successCallback, failureCallback);
+                }*/
+                console.log(ListPullMain);
+
                 listPullUpdate.forEach(function(item) {
-                    console.log("dans la boucle listPullUpdate ");
+                   
                     let idItemUpdate = item["id"];
-                    console.log("Avant la boucle listPullMain ");
-                    console.log(ListPullMain);
                     ListPullMain.forEach(function(itemMain) {
-                        console.log("dans la boucle listPullmain ");
                        if(idItemUpdate == itemMain["id"]) {
                            console.log(" id pareil");
                        } else {
