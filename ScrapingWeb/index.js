@@ -66,21 +66,21 @@ function updateListeVetement() {
 
                 try {
                     getListPullMain().then(function (resultat) {
-                        let data = JSON.parse(JSON.stringify(resultat));
-
-                        listPullUpdate.forEach(function (item) {
+                        let data = [];
+                         data = JSON.parse(JSON.stringify(resultat));
+                         
+                        listPullUpdate.forEach(function(item) {
                             let idItemUpdate = item["id"];
-                            console.log(idItemUpdate);
-                            console.log(data);
                             
-                            data.forEach(function(itemMain) {
-                                if (idItemUpdate == itemMain["id"]) {
+                            for (var itemPullMain in data) {
+                                console.log(itemPullMain);
+                                
+                                /*if (idItemUpdate == itemPullMain.id ) {
                                     console.log(" id pareil");
                                 } else {
                                     console.log("id different");
-                                }
-                            });
-
+                                }*/
+                            }
                         });
 
 
