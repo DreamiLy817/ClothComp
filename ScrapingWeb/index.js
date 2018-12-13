@@ -23,7 +23,7 @@ function recuperationListeVetement() {
                         url: $(this).find('.img-link').attr('href'),
                         image: $(this).find('.img-link img').attr('src'),
                         priceD: priceDateArray[0] = [
-                            { obj : $(this).find('.price').text().trim(), currentDate},
+                            { prix : $(this).find('.price').text().trim(), currentDate},
                     
                         ]
                     }
@@ -53,35 +53,38 @@ async function updateListeVetement() {
             url: $(this).find('.img-link').attr('href'),
             image: $(this).find('.img-link img').attr('src'),
             priceD: priceDateArray[0] = [
-                {obj : $(this).find('.price').text().trim(), currentDate}
+                {prix : $(this).find('.price').text().trim(), currentDate}
             ]
         }
     });
 
-    const resultat = await readFileAsync('listPull.json', 'utf8').catch(error => console.log(err));
+    const listPullStockeStr = await readFileAsync(__dirname+'/listPull.json', 'utf8').catch(error => console.log(error));
     // transforme la liste en objet
-    let data = JSON.parse(resultat);
+    let listPullStocke = JSON.parse(listPullStockeStr);
     
     // pour chaque pull de la liste à jour...
     listPullUpdate.forEach(function(item) {
         //...on récupère l'id
-        let idItemUpdate = item["id"];
-        const byId = el => el.id === idItemUpdate;
-        const currentItem = data.find(byId);
-        if  (item.priceD[item.priceD.length - 1 ].obj  == currentItem.priceD[0].obj ) {
-            console.log("meme prix ");
+        // fonction pour rechercher les meme id 
+        const byId = el => el.id === item.id;
+        const currentItem = listPullStocke.find(byId);
+        if(!currentItem) {
+            listPullStocke.push(item);
         } else {
-            console.log("different");
-            item.priceD.push(currentItem.priceD[0]);
+            if  (item.priceD[item.priceD.length - 1 ].prix  == currentItem.priceD[0].prix ) {
+                console.log("meme prix ");
+            } else {
+                console.log("different");
+                item.priceD.push(currentItem.priceD[0]);
+            }
         }
-        
     });
-    /*const listPullUpdateTrimmed = listPullUpdate.filter(n => n != undefined )
-    fs.writeFile('listPullUpdate.json',
+    const listPullUpdateTrimmed = listPullStocke.filter(n => n != undefined )
+    fs.writeFile('listPullUpdateNewPull.json',
         JSON.stringify(listPullUpdateTrimmed, null, 4),
-        (err)=> console.log('File successfully written!'))*/
+        (err)=> console.log('File successfully written!'))
 }
 
-//recuperationListeVetement();
+recuperationListeVetement();
 
-updateListeVetement();
+//updateListeVetement();
