@@ -71,11 +71,13 @@ async function updateListeVetement() {
         if(!currentItem) {
             listPullStocke.push(item);
         } else {
-            if  (item.priceD[item.priceD.length - 1 ].prix  == currentItem.priceD[0].prix ) {
+            const oldPrice = currentItem.priceD[currentItem.priceD.length - 1 ].prix;
+            const newPrice = item.priceD[0].prix;
+            if  (oldPrice == newPrice) {
                 console.log("meme prix ");
             } else {
                 console.log("different");
-                item.priceD.push(currentItem.priceD[0]);
+                currentItem.priceD.push({prix: newPrice, currentDate: new Date()});
             }
         }
     });
@@ -85,6 +87,6 @@ async function updateListeVetement() {
         (err)=> console.log('File successfully written!'))
 }
 
-recuperationListeVetement();
+//recuperationListeVetement();
 
-//updateListeVetement();
+updateListeVetement();

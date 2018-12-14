@@ -1,289 +1,29 @@
 [
     {
+        "id": 10020642076,
+        "title": "pull à perles",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-gris-clair-10020642076.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "2 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            },
+            {
+                "prix": "25,99 €",
+                "currentDate": "2018-12-14T13:03:34.961Z"
+            }
+        ]
+    },
+    {
         "id": 10020642067,
         "title": "pull à perles",
         "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-gris-chine-10020642067.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "1 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021278076,
-        "title": "pull loose et long",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-et-long-gris-chine-10021278076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020799033,
-        "title": "pull avec laçage",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-lacage-kaki-10020799033.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021872076,
-        "title": "pull long col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-gris-chine-10021872076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021731060,
-        "title": "robe tube",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/robe-tube-noire-10021731060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021763001,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-ecru-10021763001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021872001,
-        "title": "pull long col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-ecru-10021872001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020642060,
-        "title": "pull à perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-noir-10020642060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020474030,
-        "title": "pull texturé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-vert-10020474030.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "17,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021425001,
-        "title": "pull long",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-ecru-10021425001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021696076,
-        "title": "pull col roulé avec lurex",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-col-roule-avec-lurex-gris-10021696076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020642059,
-        "title": "pull à perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-ocre-10020642059.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021872059,
-        "title": "pull long col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-ocre-10021872059.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021765001,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-ecru-10021765001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "16,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021485001,
-        "title": "pull tressé col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-ecru-10021485001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "24,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020090060,
-        "title": "pull long avec rayures",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-avec-rayures-noir-10020090060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021429059,
-        "title": "pull maille texturée",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-maille-texturee-ocre-10021429059.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020799022,
-        "title": "pull avec laçage",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-lacage-bordeaux-10020799022.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020749060,
-        "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-noir-10020749060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "12,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020749038,
-        "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-rouge-10020749038.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "12,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020474038,
-        "title": "pull texturé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-rouge-10020474038.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "17,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020474011,
-        "title": "pull texturé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-bleu-marine-10020474011.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "17,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021872025,
-        "title": "pull long col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-prune-10021872025.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021872060,
-        "title": "pull long col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-noir-10021872060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -294,68 +34,56 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10020749001,
+        "id": 10020799022,
+        "title": "pull avec laçage",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-lacage-bordeaux-10020799022.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020749038,
         "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-ecru-10020749001.html",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-rouge-10020749038.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "12,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "12,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021956001,
-        "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-ecru-10021956001.html",
+        "id": 10021872060,
+        "title": "pull long col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-noir-10021872060.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "14,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10020965060,
-        "title": "robe pull zippée",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/robe-pull-zippee-noire-10020965060.html",
+        "id": 10020642060,
+        "title": "pull à perles",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-noir-10020642060.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "17,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021765038,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-rouge-10021765038.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "16,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021022038,
-        "title": "pull avec rayures et zip",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-rayures-et-zip-rouge-noir-et-blanc-10021022038.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "16,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -366,128 +94,44 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "15,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "15,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10020088001,
+        "id": 10021278076,
+        "title": "pull loose et long",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-et-long-gris-chine-10021278076.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020749001,
         "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-ecru-10020088001.html",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-ecru-10020749001.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "15,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "12,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10020799001,
-        "title": "pull avec laçage",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-lacage-ecru-10020799001.html",
+        "id": 10021872059,
+        "title": "pull long col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-ocre-10021872059.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021769076,
-        "title": "pull maille ajourée",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-maille-ajouree-gris-chine-10021769076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021536060,
-        "title": "pull mohair avec chevrons",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-mohair-avec-chevrons-noir-ecru-et-rose-clair-10021536060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "19,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021956060,
-        "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-noir-10021956060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "14,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021453001,
-        "title": "pull texturé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-ecru-10021453001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "17,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020196083,
-        "title": "pull avec fausse fourrure",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-fausse-fourrure-rose-clair-10020196083.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021870083,
-        "title": "pull avec perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-perles-rose-clair-10021870083.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021608076,
-        "title": "pull avec perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-perles-gris-chine-10021608076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "25,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020749025,
-        "title": "pull côtelé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-prune-10020749025.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "12,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -498,116 +142,44 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "obj": "16,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021765060,
+        "id": 10021765001,
         "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-noir-10021765060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "16,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021485022,
-        "title": "pull tressé col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-bordeaux-10021485022.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "24,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021485011,
-        "title": "pull tressé col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-bleu-marine-10021485011.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "24,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021485002,
-        "title": "pull tressé col roulé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-beige-10021485002.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "obj": "24,99 €",
-                "currentDate": "Wed Dec 12 2018 13:34:37 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020642076,
-        "title": "pull à perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-gris-clair-10020642076.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "25,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021425038,
-        "title": "pull long",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-rouge-10021425038.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "25,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10019819024,
-        "title": "pull chenille",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-chenille-rose-clair-10019819024.html",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-ecru-10021765001.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "16,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021467001,
-        "title": "pull fausse fourrure",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-fausse-fourrure-ecru-10021467001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "25,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10019996083,
+        "id": 10019996060,
         "title": "pull bi-matière",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-bi-matiere-rose-clair-10019996083.html",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-bi-matiere-noir-10019996060.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "24,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020799001,
+        "title": "pull avec laçage",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-lacage-ecru-10020799001.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -619,19 +191,187 @@
         "priceD": [
             {
                 "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021763030,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-vert-10021763030.html",
+        "id": 10020090060,
+        "title": "pull long avec rayures",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-avec-rayures-noir-10020090060.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021763002,
+        "title": "pull loose",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-beige-10021763002.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021731060,
+        "title": "robe tube",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/robe-tube-noire-10021731060.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020749060,
+        "title": "pull côtelé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-noir-10020749060.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "12,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10019785083,
+        "title": "pull toucher cachemire",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-toucher-cachemire-rose-clair-10019785083.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "12,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021765038,
+        "title": "pull loose",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-rouge-10021765038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020088001,
+        "title": "pull côtelé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-ecru-10020088001.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "15,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021872025,
+        "title": "pull long col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-prune-10021872025.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021467038,
+        "title": "pull fausse fourrure",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-fausse-fourrure-rouge-10021467038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021696076,
+        "title": "pull col roulé avec lurex",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-col-roule-avec-lurex-gris-10021696076.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021079060,
+        "title": "gilet chenille",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/gilet-chenille-noir-10021079060.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021485022,
+        "title": "pull tressé col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-bordeaux-10021485022.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "24,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021485038,
+        "title": "pull tressé col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-rouge-10021485038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "24,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020474030,
+        "title": "pull texturé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-vert-10020474030.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "17,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021765060,
+        "title": "pull loose",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-noir-10021765060.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -643,91 +383,31 @@
         "priceD": [
             {
                 "prix": "15,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10019906038,
-        "title": "pull côtelé w london",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-w-london-noir-et-rouge-10019906038.html",
+        "id": 10020137060,
+        "title": "pull toucher cachemire",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-toucher-cachemire-noir-10020137060.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "15,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10019819001,
-        "title": "pull chenille",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-chenille-blanc-10019819001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "16,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021870067,
-        "title": "pull avec perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-perles-gris-anthracite-chine-10021870067.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "25,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020474001,
-        "title": "pull texturé",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-ecru-10020474001.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "17,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021763038,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-rouge-10021763038.html",
+        "id": 10020135001,
+        "title": "pull long toucher cachemire",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-toucher-cachemire-ecru-10020135001.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021429060,
-        "title": "pull maille texturée",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-maille-texturee-noir-10021429060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10021769022,
-        "title": "pull maille ajourée",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-maille-ajouree-bordeaux-10021769022.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
@@ -739,43 +419,163 @@
         "priceD": [
             {
                 "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021763076,
-        "title": "pull loose",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-gris-chine-10021763076.html",
+        "id": 10020474011,
+        "title": "pull texturé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-texture-bleu-marine-10020474011.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "prix": "17,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     },
     {
-        "id": 10021330060,
-        "title": "robe pull w london",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/robe-pull-w-london-noire-et-rouge-10021330060.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
-            {
-                "prix": "19,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
-            }
-        ]
-    },
-    {
-        "id": 10020196060,
-        "title": "pull avec fausse fourrure",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-fausse-fourrure-noir-10020196060.html",
+        "id": 10021872076,
+        "title": "pull long col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-long-col-roule-gris-chine-10021872076.html",
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
                 "prix": "25,99 €",
-                "currentDate": "Thu Dec 13 2018 14:05:16 GMT+0100 (Paris, Madrid)"
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10019980001,
+        "title": "pull like no other",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-like-no-other-ecru-10019980001.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10019785060,
+        "title": "pull toucher cachemire",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-toucher-cachemire-noir-10019785060.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "12,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10019819038,
+        "title": "pull chenille",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-chenille-rouge-10019819038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021765059,
+        "title": "pull loose",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-ocre-10021765059.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10019819011,
+        "title": "pull chenille",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-chenille-bleu-10019819011.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020115076,
+        "title": "pull côtelé avec laçages",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-cotele-avec-lacages-gris-chine-10020115076.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "16,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021485002,
+        "title": "pull tressé col roulé",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-tresse-col-roule-beige-10021485002.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "24,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021449031,
+        "title": "pull avec rayures",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-avec-rayures-ecru-vert-et-noir-10021449031.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "15,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10020137001,
+        "title": "pull toucher cachemire",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-toucher-cachemire-ecru-10020137001.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "15,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021429038,
+        "title": "pull maille texturée",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-maille-texturee-rouge-10021429038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
+            }
+        ]
+    },
+    {
+        "id": 10021763038,
+        "title": "pull loose",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-loose-rouge-10021763038.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "19,99 €",
+                "currentDate": "Fri Dec 14 2018 13:43:20 GMT+0100 (Paris, Madrid)"
             }
         ]
     }
