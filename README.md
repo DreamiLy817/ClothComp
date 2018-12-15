@@ -5,7 +5,7 @@ Comparateur de prix
 
 - Récupérer les données ✔
 - Run le script après un lapse de temps ✔
-- Récuperer plusieurs éléments à partir d'une classe
+- Récuperer plusieurs éléments à partir d'une classe ✔
 - Interface pour rentrer l'url, et la/les classe(s) du(des) produit(s)
 
 
@@ -21,7 +21,3 @@ Comparateur de prix
 
 ( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
 
-- vérifier l'id du produit
-- si l'id correspond, vérifie si le prix a changé 
-- si le prix a changé, stocker le nouveau prix et récupérer la date
-- si le prix n'a pas changé, on passe à l'article suivant 
