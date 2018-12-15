@@ -3,8 +3,6 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const { promisify } = require('util');
 const schedule = require('node-schedule');
-
-
 const readFileAsync = promisify(fs.readFile);
 
 async function ListeVetement() {
@@ -13,7 +11,6 @@ async function ListeVetement() {
     
     const listPullStockeStr = await readFileAsync(__dirname+'/listPull.json', 'utf8').catch(error => console.log(error));
 
-    
     const html = response.data;
     const $ = cheerio.load(html);
     let listPullUpdate = [];
@@ -21,6 +18,7 @@ async function ListeVetement() {
     let listPull = [];
     let currentDate = Date(Date.now());
 
+    // si le fichier de pull stocké est vide, il récupère tout ce qu'il y a sur la page
     if(!listPullStockeStr) {
         $('#search-result-items .list-tile').each(function (i, elem) {
             listPull[i] = {
@@ -37,7 +35,7 @@ async function ListeVetement() {
         const listPullTrimmed = listPull.filter(n => n != undefined)
         fs.writeFile('listPull.json',
             JSON.stringify(listPullTrimmed, null, 4),
-            (err) => console.log('La liste de pull de base a été enregistré'))
+            (err) => console.log('La liste de pull de base a été enregistrée'))
             return;
     } 
     $('#search-result-items .list-tile').each(function (i, elem) {
@@ -52,7 +50,6 @@ async function ListeVetement() {
         }
     });
 
-    //const listPullStockeStr = await readFileAsync(__dirname+'/listPull.json', 'utf8').catch(error => console.log(error));
     // transforme la liste en objet
     let listPullStocke = JSON.parse(listPullStockeStr);
     
@@ -67,18 +64,16 @@ async function ListeVetement() {
         } else {
             const oldPrice = currentItem.priceD[currentItem.priceD.length - 1 ].prix;
             const newPrice = item.priceD[0].prix;
-            if  (oldPrice == newPrice) {
-                console.log("meme prix ");
-            } else {
-                console.log("different");
+            // si le prix du pull stocké est différent du nouveau prix récupérer on met à jour l'objet 
+            if  (oldPrice != newPrice) {
                 currentItem.priceD.push({prix: newPrice, currentDate: new Date()});
             }
         }
     });
     const listPullUpdateTrimmed = listPullStocke.filter(n => n != undefined )
-    fs.writeFile('listPullUpdateNewPull.json',
+    fs.writeFile('listPull.json',
         JSON.stringify(listPullUpdateTrimmed, null, 4),
-        (err)=> console.log('La mise a jour de la liste a bien été effectué'))
+        (err)=> console.log('La mise a jour de la liste a bien été effectuée'))
 }
 
 ListeVetement();

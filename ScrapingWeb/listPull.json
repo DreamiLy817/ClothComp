@@ -6,20 +6,16 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "prix": "19,99 €",
+                "prix": "2 €",
                 "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
-            }
-        ]
-    },
-    {
-        "id": 10020642059,
-        "title": "pull à perles",
-        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-ocre-10020642059.html",
-        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
-        "priceD": [
+            },
             {
-                "prix": "25,99 €",
-                "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
+                "prix": "20 €",
+                "currentDate": "2018-12-15T16:11:21.848Z"
+            },
+            {
+                "prix": "19,99 €",
+                "currentDate": "2018-12-15T16:11:54.424Z"
             }
         ]
     },
@@ -30,8 +26,12 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "prix": "12,99 €",
+                "prix": "10 €",
                 "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
+            },
+            {
+                "prix": "12,99 €",
+                "currentDate": "2018-12-15T16:11:21.848Z"
             }
         ]
     },
@@ -42,8 +42,12 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "prix": "12,99 €",
+                "prix": "15 €",
                 "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
+            },
+            {
+                "prix": "12,99 €",
+                "currentDate": "2018-12-15T16:11:21.848Z"
             }
         ]
     },
@@ -54,8 +58,12 @@
         "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
         "priceD": [
             {
-                "prix": "19,99 €",
+                "prix": "14 €",
                 "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
+            },
+            {
+                "prix": "19,99 €",
+                "currentDate": "2018-12-15T16:11:21.848Z"
             }
         ]
     },
@@ -572,6 +580,18 @@
             {
                 "prix": "19,99 €",
                 "currentDate": "Sat Dec 15 2018 16:49:03 GMT+0100 (CET)"
+            }
+        ]
+    },
+    {
+        "id": 10020642059,
+        "title": "pull à perles",
+        "url": "https://www.jennyfer.com/fr-fr/vetements/pulls-et-gilets/pull-a-perles-ocre-10020642059.html",
+        "image": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/Sites-Jennyfer-EU-Site/-/default/dwbed21ccb/img/defaultimage.jpg?sw=325",
+        "priceD": [
+            {
+                "prix": "25,99 €",
+                "currentDate": "Sat Dec 15 2018 17:12:26 GMT+0100 (CET)"
             }
         ]
     }
