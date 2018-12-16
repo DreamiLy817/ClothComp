@@ -1,23 +1,34 @@
-# ClothComp
-Comparateur de prix
+# scrapingweb
 
-### TODO
+## Project setup
+```
+npm install
+```
 
-- Récupérer les données ✔
-- Run le script après un lapse de temps ✔
-- Récuperer plusieurs éléments à partir d'une classe ✔
-- Interface pour rentrer l'url, et la/les classe(s) du(des) produit(s)
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### Idées 
+### Run your tests
+```
+npm run test
+```
 
-- pouvoir suivre un produit, ajouter un produit à la liste 
-- voir les images des produits avec le prix, le site proposé
-- voir le prix d'un article sur une semaine pour suivre l'évolution
+### Lints and fixes files
+```
+npm run lint
+```
 
+### Run your unit tests
+```
+npm run test:unit
+```
 
-## Vrac
-
-
-( tableau avec url du site , url de l'image, nom de l'article, prix actuelle, tableau des prix sur 2semaines ) 
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
